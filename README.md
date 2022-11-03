@@ -1,4 +1,4 @@
-# Sub0 Talk: Substrate .NET Toolchain & Unity
+# Ajuna sub0 Talk: Substrate .NET Toolchain & Unity
 ![ajuna-Header-1080p_with_logo](https://polkadot.network/content/images/2022/08/image1.jpg)
 
 
@@ -35,11 +35,40 @@ We will build a small Unity app using the generated SDK of
 `Ajuna.NetWallet` implements the basic functionality to create an account, and encrypt it on a device based filesystem. It also supports mnemonic, AES, SR25519 and ED25519 encryption. Additionally, it encodes and decodes substrate-based address formats in ss58.
 
 ## Demo Repos
-- [Ajuna.SDK.Demos](https://github.com/ajuna-network/Ajuna.SDK.Demos)
-- [SubstrateNET.UnityDemo](https://github.com/ajuna-network/SubstrateNET.UnityDemo)
+- [Ajuna.SDK.Demos](https://github.com/ajuna-network/Ajuna.SDK.Demos)  
+This repository contains basic examples of how the generated SDK can be used.
 
-## Development Tools for the workshop
-- Visual Studio Code or Visual Studio
-- Unity App
-- A running Substrate node
+- [SubstrateNET.UnityDemo](https://github.com/ajuna-network/SubstrateNET.UnityDemo)  
+This is a simple Unity Demo built on top of the Ajuna.SDK
+
+
+## What you need for the workshop
+
+### 1. Install Rust 
+
+**Windows**  
+Download and run [rustup-init.exe](https://static.rust-lang.org/rustup/dist/i686-pc-windows-gnu/rustup-init.exe)
+
+ **macOS / Linux**  
+ Execute `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+`
+
+### 2. Get a Substrate node up and running
+The first and most important prerequisite is to have a running Substrate node.
+
+Currently you should find the most recent monthly build with a pre-generated tag in this [repo](https://github.com/paritytech/substrate), so make sure you chose a supported monthly substrate tag (ex. monthly-2022-11)
+
+
+```bash
+git clone -b monthly-2022-11 --single-branch https://github.com/paritytech/substrate.git
+cargo build -p node-cli --release
+./target/release/substrate --dev
+```
+
+### 3. Install Visual Studio Code or Visual Studio
+Install [VS Code](https://code.visualstudio.com/Download) with the necessary [setup](https://code.visualstudio.com/docs/languages/dotnet) for .NET development. Alternatively, [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) might be the easies option.
+
+### 4. Install Unity Hub
+Download [Unity Hub](https://unity.com/download) and install version _2021.3.7f1_ to be able to run the Unity Demo.  
+
 
