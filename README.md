@@ -2,12 +2,23 @@
 ![ajuna-Header-1080p_with_logo](https://polkadot.network/content/images/2022/08/image1.jpg)
 
 
-![ajuna-Header-1080p_with_logo](https://i.ibb.co/pXLXfbS/Screenshot-2022-11-02-at-2-45-25-PM.png)
+![presentation_banner](https://github.com/dimitrispaxinos/ajuna-sub0/blob/main/images/Presentation%20Entry%20Screenshot.png?raw=true)
 
 This repo contains the notes for [Ajuna.Network's](https://ajuna.io/) _Substrate .NET Toolchain & Unity_ talk on the sub0 conference.
 
 ## Presentation Slides
 The presentation slides can be found [here]().
+
+## Agenda
+
+1. **How everything started**   
+Brief introduction about what led us to developing the .NET Toolchain.
+2. **.NET Toolchain**  
+We will explore the main offerings of the toolchain, show its usage and generate the SDK for a substrate node. 
+3. **Usage Examples**  
+Hands-on Demo to show storage changes polling, subscription to storage changes, extrinsic execution.
+4. **Building a working Unity app**  
+We will build a small Unity app using the generated SDK of 
 
 
 ## Main Toolchain Repos
@@ -24,7 +35,8 @@ The presentation slides can be found [here]().
 `Ajuna.NetWallet` implements the basic functionality to create an account, and encrypt it on a device based filesystem. It also supports mnemonic, AES, SR25519 and ED25519 encryption. Additionally, it encodes and decodes substrate-based address formats in ss58.
 
 ## Demo Repos
-
+- [Ajuna.SDK.Demos](https://github.com/ajuna-network/Ajuna.SDK.Demos)
+- [SubstrateNET.UnityDemo](https://github.com/ajuna-network/SubstrateNET.UnityDemo)
 
 ## Development Tools for the workshop
 - Visual Studio Code or Visual Studio
