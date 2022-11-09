@@ -61,7 +61,7 @@ Currently you should find the most recent monthly build with a pre-generated tag
 ```bash
 git clone -b monthly-2022-11 --single-branch https://github.com/paritytech/substrate.git
 cargo build -p node-cli --release
-./target/release/substrate --dev
+./target/release/node-template --dev
 ```
 
 ### 3. Install Visual Studio Code or Visual Studio
