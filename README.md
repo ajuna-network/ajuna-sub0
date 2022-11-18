@@ -12,7 +12,7 @@ The presentation slides can be found [here]().
 ## Agenda
 
 1. **How everything started**   
-Brief introduction about what led us to developing the .NET Toolchain.
+Brief introduction about what led us to develop the .NET Toolchain.
 2. **.NET Toolchain**  
 We will explore the main offerings of the toolchain, show its usage and generate the SDK for a substrate node. 
 3. **Usage Examples**  
