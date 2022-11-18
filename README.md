@@ -18,7 +18,7 @@ We will explore the main offerings of the toolchain, show its usage and generate
 3. **Usage Examples**  
 Hands-on Demo to show storage changes polling, subscription to storage changes, extrinsic execution.
 4. **Building a working Unity app**  
-We will build a small Unity app using the generated SDK of 
+We will build a small Unity app using the generated SDK 
 
 
 ## Main Toolchain Repos
