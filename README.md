@@ -7,7 +7,7 @@
 This repo contains the notes for [Ajuna.Network's](https://ajuna.io/) _Substrate .NET Toolchain & Unity_ talk on the sub0 conference.
 
 ## Presentation Slides
-The presentation slides can be found [here]().
+The presentation slides can be found [here](https://docs.google.com/presentation/d/166VzGfN7tn6cC1SaqD1wAxx12sB5pyCe/edit?usp=sharing&ouid=116338638740224360478&rtpof=true&sd=true).
 
 ## Agenda
 
