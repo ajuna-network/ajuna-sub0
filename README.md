@@ -4,10 +4,12 @@
 
 ![presentation_banner](https://github.com/dimitrispaxinos/ajuna-sub0/blob/main/images/Presentation%20Entry%20Screenshot.png?raw=true)
 
-This repo contains the notes for [Ajuna.Network's](https://ajuna.io/) _Substrate .NET Toolchain & Unity_ talk on the sub0 conference.
+This repo contains:
+- The notes for [Ajuna.Network's](https://ajuna.io/) _Substrate .NET Toolchain & Unity_ talk on the sub0 conference 
+- A basic demo .NET solution, [HelloSubstrate](https://github.com/ajuna-network/ajuna-sub0/tree/main/HelloSubstrate) showing how we can connect toa Substrate Node using the .NET Toolchain.
 
 ## Presentation Slides
-The presentation slides can be found [here]().
+The presentation slides can be found [here](https://docs.google.com/presentation/d/166VzGfN7tn6cC1SaqD1wAxx12sB5pyCe/edit?usp=sharing&ouid=116338638740224360478&rtpof=true&sd=true).
 
 ## Agenda
 
