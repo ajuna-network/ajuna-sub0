@@ -78,7 +78,7 @@ Install [VS Code](https://code.visualstudio.com/Download) with the necessary [se
 Download [Unity Hub](https://unity.com/download) and install version _2021.3.7f1_ to be able to run the Unity Demo.  
 
 ## Projects
-
 - HelloSubstrate, https://github.com/ajuna-network/ajuna-sub0/tree/main/HelloSubstrate
 - HelloKusama, https://github.com/ajuna-network/ajuna-sub0/tree/main/HelloKusama
 - MauiSubstrate, https://github.com/ajuna-network/ajuna-sub0/tree/main/MauiSubstrate
+- SubstrateNET.UnityDemo, https://github.com/ajuna-network/SubstrateNET.UnityDemo
