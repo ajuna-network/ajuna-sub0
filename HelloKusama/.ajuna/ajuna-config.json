@@ -1,0 +1,13 @@
+{
+   "projects": {
+      "net_api": "HelloKusama.NetApiExt",
+      "rest_service": "HelloKusama.RestService",
+      "rest_client": "HelloKusama.RestClient"
+   },
+   "metadata": {
+      "websocket": "ws://kusama-rpc.polkadot.io"
+   },
+   "rest_client_settings": {
+      "service_assembly": "HelloKusama.RestService.dll"
+   }
+}

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloKusama.RestService", "HelloKusama.RestService\HelloKusama.RestService.csproj", "{9AEDB87E-FAE6-4DB5-BF90-FE889A6CACF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloKusama.NetApiExt", "HelloKusama.NetApiExt\HelloKusama.NetApiExt.csproj", "{CFF9E204-E4A8-4208-946E-2EAAD6B943FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloKusama.RestClient", "HelloKusama.RestClient\HelloKusama.RestClient.csproj", "{F98064AE-079E-49C9-B849-CDA117445AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloKusama.RestClient.Mockup", "HelloKusama.RestClient.Mockup\HelloKusama.RestClient.Mockup.csproj", "{5D114476-97B6-436B-BCF9-8EC8724DC73A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloKusama.RestClient.Test", "HelloKusama.RestClient.Test\HelloKusama.RestClient.Test.csproj", "{0B364162-CC69-4C1B-B771-47D4FF603D65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayGround", "PlayGround\PlayGround.csproj", "{D15DE43F-AD91-4CB4-84F6-6E6735FA1D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AEDB87E-FAE6-4DB5-BF90-FE889A6CACF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AEDB87E-FAE6-4DB5-BF90-FE889A6CACF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AEDB87E-FAE6-4DB5-BF90-FE889A6CACF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AEDB87E-FAE6-4DB5-BF90-FE889A6CACF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF9E204-E4A8-4208-946E-2EAAD6B943FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF9E204-E4A8-4208-946E-2EAAD6B943FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF9E204-E4A8-4208-946E-2EAAD6B943FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF9E204-E4A8-4208-946E-2EAAD6B943FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F98064AE-079E-49C9-B849-CDA117445AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98064AE-079E-49C9-B849-CDA117445AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98064AE-079E-49C9-B849-CDA117445AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98064AE-079E-49C9-B849-CDA117445AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D114476-97B6-436B-BCF9-8EC8724DC73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D114476-97B6-436B-BCF9-8EC8724DC73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D114476-97B6-436B-BCF9-8EC8724DC73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D114476-97B6-436B-BCF9-8EC8724DC73A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B364162-CC69-4C1B-B771-47D4FF603D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B364162-CC69-4C1B-B771-47D4FF603D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B364162-CC69-4C1B-B771-47D4FF603D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B364162-CC69-4C1B-B771-47D4FF603D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15DE43F-AD91-4CB4-84F6-6E6735FA1D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15DE43F-AD91-4CB4-84F6-6E6735FA1D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15DE43F-AD91-4CB4-84F6-6E6735FA1D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15DE43F-AD91-4CB4-84F6-6E6735FA1D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
