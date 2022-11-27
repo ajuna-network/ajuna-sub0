@@ -50,4 +50,4 @@ class Program
 }
   ```
 <h3>4. Run Project</h3>
-- run the project by opening the terminal and typing ```dotnet run``` or ```Run Without Debugging (Ctrl+F5)```.
+- run the project by opening the terminal and typing <code>dotnet run</code> or  <code>Run Without Debugging (Ctrl+F5)</code>.
