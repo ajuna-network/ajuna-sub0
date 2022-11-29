@@ -40,7 +40,7 @@ We will build a small Unity app using the generated SDK
 This repository contains basic examples of how the generated SDK can be used.
 
 - [SubstrateNET.UnityDemo](https://github.com/ajuna-network/SubstrateNET.UnityDemo)  
-This is a simple Unity Demo built on top of the Ajuna.SDK
+This is a simple Unity Demo built on top of the Ajuna.SDK. Please checkout the `substrate-seminar` branch.
 
 - [MoneyPot Blazor front app](https://github.com/Apolixit/moneypot_blazor)  
 This repository is an [ASP.NET Blazor](https://learn.microsoft.com/fr-fr/aspnet/core/blazor) application, written in C#, based on Ajuna SDK generated projects.   
